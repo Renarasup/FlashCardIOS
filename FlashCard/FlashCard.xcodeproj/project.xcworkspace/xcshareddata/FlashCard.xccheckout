@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>574938FF-8EE1-4418-865E-6074DD1045DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlashCard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6D523052-F059-4046-BD3B-A715FE4F43DB</key>
+		<string>https://bitbucket.org/hvbinh/flashcard-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlashCard/FlashCard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6D523052-F059-4046-BD3B-A715FE4F43DB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/hvbinh/flashcard-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6D523052-F059-4046-BD3B-A715FE4F43DB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6D523052-F059-4046-BD3B-A715FE4F43DB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>flashcard ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
